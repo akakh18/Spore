@@ -1,0 +1,2 @@
+PRAY_WON_MESSAGE = "Pray ran into infinity"
+PREDATOR_WON_MESSAGE = "REST IN PEACE DEAR PRAY!"
